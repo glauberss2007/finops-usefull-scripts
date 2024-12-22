@@ -39,4 +39,4 @@ This script sets up AWS Cost Anomaly Detection for multiple accounts in your org
 - Configures email notifications for detected anomalies
 - Processes multiple accounts from a CSV file
 
-These scripts are designed to help FinOps teams manage costs and optimize spending across large AWS environments with multiple accounts. They automate common tasks, provide valuable insights, and help maintain consistent cost management practices across your organization.
+
