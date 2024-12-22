@@ -1,7 +1,5 @@
 # finops-usefull-scripts
 
-Sure, here's the format for the readme.md file with the descriptions for the three scripts:
-
 # AWS FinOps Scripts
 
 This repository contains a collection of Python scripts to automate various FinOps tasks in AWS.
